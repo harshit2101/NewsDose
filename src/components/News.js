@@ -15,7 +15,7 @@ const News=(props)=> {
     return string.charAt(0).toUpperCase()+string.slice(1);
   }
 
-  
+//  comment
   const updateNews=async()=>{
     props.setProgress(10);
     const url=`https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=7c1e455976674e45ab7dbbb0812120d5&page=${page}&pageSize=${props.pageSize}`;
