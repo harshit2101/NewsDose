@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "AnnaMaria Andriotis",
+      "title": "Apple Goes Deeper Into Finance With Buy Now, Pay Later Offering",
+      "description": "Tech giant will approve borrowers and fund loans itself rather than rely on a bank",
+      "url": "https://www.wsj.com/articles/apple-goes-deeper-into-finance-with-buy-now-pay-later-offering-11654939801?mod=hp_lead_pos3",
+      "urlToImage": "https://images.wsj.net/im-561579/social",
+      "publishedAt": "2022-06-11T09:30:00Z",
+      "content": "Apple Inc. tiptoed into finance with Apple Pay and the credit card it launched three years ago with Goldman Sachs Group Inc. Now it is going all in.\r\nThe tech giant is launching a buy now, pay later … [+373 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+      "url": "http://business.financialpost.com/category/opinion/",
+      "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-02-20T02:07:22.9503753Z",
+      "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Financial Post",
+      "title": "Financial Post",
+      "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+      "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+      "urlToImage": "https://storage.googleapis.com/pmd-stage-northamerica-northeast1-dcs-static-files/9.4.3/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2022-02-20T00:52:24.7949372Z",
+      "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2022 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+    },
+    {
+      "source": { "id": "liberation", "name": "Libération" },
+      "author": "Elsa Maudet",
+      "title": "Précarité énergétique : «Les journées où il pleut tout le temps, c’est un peu l’enfer»",
+      "description": "Comme 3,5 millions de ménages français, Valérie et David peinent à combattre l'humidité et les fuites dans leur maison. Pour financer les travaux, ils sont accompagnés par une association spécialisée.",
+      "url": "http://www.liberation.fr/france/2021/02/02/precarite-energetique-les-journees-ou-il-pleut-tout-le-temps-c-est-un-peu-l-enfer_1819030",
+      "urlToImage": "https://medias.liberation.fr/photo/1375474-2021-02-margueritebornhauser-compiegnes-10jpg.jpg?modified_at=1612265502&amp;picto=fb&amp;ratio_x=191&amp;ratio_y=100&amp;width=1080",
+      "publishedAt": "2021-02-02T12:49:24Z",
+      "content": "Search\r\nDirect\r\nUser\r\n100\r\nZoom\r\nQuiz\r\n?\r\nLibération Diamond\r\nclock\r\nxml\r\nnetvibes\r\nlive\r\nanciens-numeros\r\ndata\r\ndesintox\r\ndiapo\r\nedito\r\nelection-2017\r\nelection\r\nessentiel\r\ngenerique\r\nidee\r\njo\r\nnext\r… [+467 chars]"
+    }
+  ]
+}
